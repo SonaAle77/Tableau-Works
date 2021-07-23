@@ -1,2 +1,2 @@
 # Tableau-Works
-This repository contains all my tableau works.
+![](https://public.tableau.com/views/NetflixShowsAndMoviesDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
